@@ -1,4 +1,4 @@
-👋 Hi, I’m Haru Shankar <br>
+👋 Hi, I’m Hari Shankar <br>
 👀 I’m interested in web development, frontend frameworks, and responsive design. <br>
 🌱 I’m currently learning HTML5, CSS3, and JavaScript, with a focus on mastering React.js. <br>
 💞️ I’m looking to collaborate on web development projects, particularly those involving modern web technologies and clean, efficient code. <br>
